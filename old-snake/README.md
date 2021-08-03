@@ -18,5 +18,5 @@ Na pasta raiz, dê duplo clique no arquivo index.html para abrir o site no naveg
 🔐 Licença:
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-👩 Desenvolvedora:
-Desenvolvido por Gabriela Queiroz! 💜
+👩 Desenvolvedor:
+Desenvolvido por Matheus de Freitas! 💜
