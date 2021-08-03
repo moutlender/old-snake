@@ -1,5 +1,6 @@
 🐍 Sobre:
-Jogo da cobrinha (Snake Game) desenvolvido durante o desafio Digital Innovation One. A instrutora foi a Gabriela Pinheiro. 
+Jogo da cobrinha (Snake Game) desenvolvido durante o desafio Digital Innovation One.
+Agradeço a instrutora foi a Gabriela Pinheiro. 
 
 ⚙️ Tecnologias:
 Jogo recriado utilizando as seguintes ferramentas:
@@ -18,5 +19,5 @@ Na pasta raiz, dê duplo clique no arquivo index.html para abrir o site no naveg
 🔐 Licença:
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-👩 Desenvolvedor:
+🙋🏽‍♂️ Desenvolvedor:
 Desenvolvido por Matheus de Freitas! 💜
